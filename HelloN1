@@ -1,0 +1,8 @@
+#write a program that will ask name
+name = input("What's your name?")
+
+#after the answer will greet you with the name
+print("Hello, " + name )
+
+#Asking how is the user doing
+print("How are you doing, " + name +"?")
