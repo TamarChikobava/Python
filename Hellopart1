@@ -1,0 +1,8 @@
+# different options choice if, elif else
+name = input("What's your name?")
+if name == "Tamara":
+    print("You are beautiful")
+elif name == "Nino":
+    print("You are pretty")
+else:
+    print("You are ugly")
